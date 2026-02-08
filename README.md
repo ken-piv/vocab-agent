@@ -20,7 +20,7 @@ Complete the quiz and you're done for the day. Come back tomorrow.
 Requires macOS and Python 3.
 
 ```bash
-git clone https://github.com/kennedypivnick/vocab-agent.git ~/vocab-agent
+git clone https://github.com/ken-piv/vocab-agent.git ~/vocab-agent
 bash ~/vocab-agent/install.sh
 ```
 

@@ -24,7 +24,7 @@ fi
 if [[ ! -f "$VOCAB_DIR/vocab_agent.py" ]]; then
     echo "  ERROR: vocab_agent.py not found in $VOCAB_DIR"
     echo "  Clone the repo to ~/vocab-agent first:"
-    echo "    git clone https://github.com/kennedypivnick/vocab-agent.git ~/vocab-agent"
+    echo "    git clone https://github.com/ken-piv/vocab-agent.git ~/vocab-agent"
     exit 1
 fi
 
