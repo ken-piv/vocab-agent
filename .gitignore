@@ -1,0 +1,5 @@
+vocab.db
+.done-*
+.lock/
+__pycache__/
+*.pyc
